@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Alaeddine Hammouda</h1>
 <h3 align="center">Java/Angular Developer</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=aladdinne" alt="aladdinne" /></a> </p>
-
 - 📫 How to reach me **aladin.hammouda@esprit.tn**
 
 <h3 align="left">Connect with me:</h3>
