@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Alaeddine Hammouda</h1>
 
-<h3 align="center"> A Full Stack Developer Java/Angular from Tunisia</h3>
+<h3 align="center"> A Software Engineer from Tunisia</h3>
 
 - 📫 How to reach me **aladin.hammouda@esprit.tn**
 
