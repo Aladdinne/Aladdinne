@@ -2,7 +2,7 @@
 
 <h3 align="center"> A Software Engineer from Tunisia</h3>
 
-- 📫 How to reach me **aladin.hammouda@esprit.tn**
+- 📫 How to reach me **alaeddine.hammouda213@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
