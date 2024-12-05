@@ -71,6 +71,9 @@
       <a href="https://www.elastic.co/" target="_blank" rel="noreferrer">
         <img src="https://www.vectorlogo.zone/logos/elastic/elastic-icon.svg" alt="ELK Stack" width="40" height="40"/>
       </a>
+      <a href="https://about.gitlab.com/" target="_blank" rel="noreferrer">
+        <img src="https://www.vectorlogo.zone/logos/gitlab/gitlab-icon.svg" alt="GitLab" width="40" height="40"/>
+      </a>
     </td>
   </tr>
   <tr>
@@ -98,6 +101,9 @@
       <a href="https://redis.io/" target="_blank" rel="noreferrer">
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original-wordmark.svg" alt="Redis" width="40" height="40"/>
       </a>
+      <a href="https://www.oracle.com/database/" target="_blank" rel="noreferrer">
+        <img src="https://www.vectorlogo.zone/logos/oracle/oracle-icon.svg" alt="Oracle" width="40" height="40"/>
+      </a>
     </td>
     <td align="center">
       <a href="https://azure.microsoft.com/" target="_blank" rel="noreferrer">
@@ -114,6 +120,7 @@
     </td>
   </tr>
 </table>
+
 
 
 
