@@ -85,7 +85,7 @@
   <tr>
     <td align="center">
       <a href="https://www.sonarsource.com/products/sonarqube/" target="_blank" rel="noreferrer">
-        <img src="https://www.vectorlogo.zone/logos/sonarsource/sonarsource-icon.svg" alt="SonarQube" width="40" height="40"/>
+        <img src="https://upload.vectorlogo.zone/logos/sonarqube/images/dfc028d6-7acc-48c1-99ea-4d3dd5ca4c63.svg" alt="SonarQube" width="40" height="40"/>
       </a>
       <a href="https://jenkins.io/" target="_blank" rel="noreferrer">
         <img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" alt="Jenkins" width="40" height="40"/>
