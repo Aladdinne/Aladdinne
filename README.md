@@ -97,7 +97,7 @@
 
   <!-- Keycloak -->
   <a href="https://www.keycloak.org/" target="_blank" rel="noreferrer">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/3/3b/Keycloak_logo.png" alt="Keycloak" width="40" height="40"/>
+    <img src="https://upload.wikimedia.org/wikipedia/commons/b/b4/Logo_of_Keycloak.svg" alt="Keycloak" width="40" height="40"/>
   </a>
 
   <!-- RabbitMQ -->
@@ -107,7 +107,7 @@
 
   <!-- MinIO -->
   <a href="https://min.io/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/minio/minio-original-wordmark.svg" alt="MinIO" width="40" height="40"/>
+    <img src="https://www.vectorlogo.zone/logos/minioio/minioio-ar21.svg" alt="MinIO" width="40" height="40"/>
   </a>
 
   <!-- Miscellaneous -->
